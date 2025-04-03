@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hi hello
+=======
+print("hello")
+print("hi")
+
+>>>>>>> 7dea4205948f19c7514d10968a94a4a02d639ade
